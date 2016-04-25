@@ -1,0 +1,44 @@
+maruuuaurcm uouruurra. 101
+
+aequales inter se ΑΒ, CF, (per axioma octavum nuuoous
+Elemeuti primi Euclidis) et angulus BFC aequalis L
+angulo BAC, (per Eucl. i. 4.) Qui autem ad
+punctum B in recta linea DF constituuntur auguli,
+omues simul aequales sunt omuibus simul angulis
+constitutis ad punctum C iu recta AC producta ad
+G. Nam partes simul omues aequales sunt toti
+utrobique. Cum ergo angulus BCF aequalis sit
+
+angulo ABC, et FBC aequalis BOA, erit reliquus
+FOG aequalis reliquo DBA sive BAC. Sunt igitur
+rectae AB, CF, quae ostensae sunt aequaleS, incli-
+uatae ad easdem partes secuudum angulos aequales.
+Parallelae autem sive aequidistautes lineae defini-
+untur esse illae, quae ab aequalibus rectis aequaliter
+ad easdem partes inclinatis distiueutur. Parallelae
+ergo sunt BF, AC. Atque hacteuus ratiocina-
+tionem, qua tres auguli trianguli rectilinei duobus
+rectis aequales esse demonstrantur, iu partes ex
+quibus erat composita resolvimus3 quae anulpaia est.
+
+B. Quomodo autem ex illis erat composita?
+
+A. Sic. Ex eo quod AC, DF sunt parallelae,
+concludunt angulum DBA aequalem esse angulo
+alterno BAC, et angulum FBC alterno BCA, et
+angulum ABG communem et proinde tres DBA,
+ABC, FBC aequales esse tribus BA C, ABG, ACB,
+unumquemlibet uni. Scienduma utem est, quodsi
+uualysia plenissime perageretur, non minus prolixa
+esset quam ipsa esset demonstratio, sumpta ab ipsis
+principiis usqne ad illatam conclusionem.
+
+B. Quin natura analyseos talis sit qualis hic
+explicatur, dubitari uon potest. Attamen ne ima-
+ginari quidem possum quo facto idem fieri possit
+per algebram.
+
+Α. Neque hercle ergo. Nam extra compara-
+
+ 
+

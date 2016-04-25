@@ -1,0 +1,48 @@
+288 nn nnrnnn rums.
+
+A. Ex ipsa videbis refutatione qnae sequitur.
+
+“ Summa dictorum in pseudodiplasiasmo cubi
+nupero, rescissis quae tum iu schemate tum in cou-
+structiouibus suut superflua, haec est.
+
+“ Exposita AD recta* continuetur ad V, ut sit DV
+semissi rectae AD aequalis Centro A, distantia
+AD, scribatur DO circuli quadrans, bisectus in 03
+et QS rectae AD perpendicularis. Bisecta vero
+SD in T, centro T, ducatur per V circulus VXYZ.
+Cui occurrat DX, rectae AD perpendicularis, in X:
+ADinY: et QS in Z.
+
+“Affirmat rectas DY, DX, medias esse propor-
+tionales iuter DA et DV. Quod sic conatur de-
+monstrare.
+
+“Ductis rectis VX, XY, erit angulus VXY iu
+
+semicirculo rectus: ductaque XT et continuata,
+propter bisectam SD in T, occurret circulo in Z.
+Adeoque ducta YZ, erit angulus XYZ in semicir-
+
+culo rectus: ipsaque YZ rectae XV parallelo.
+“Producatur XD ad P, ut sit DP rectae AD
+aequalis. Si itaque YZ producta rectae PD occurrat
+
+in puncto P, erunt (propter similia triangula PDY,
+, YDX, XDV) rectae DP, DY, DX, DV continue
+proportionales Et consequenter (propter cubos
+in ratione laterum triplicata) cubus lateris DY
+subduplus cubi lateris DP sive DA. Atque hac·
+tenus recte.
+
+“Rectam autem YZ continuatam puncto Poc-
+currere, probare frustra contendit.
+
+“Ducta PV, et bisecta in α, ducatur ab rectae
+DY parallela, rectae DP occurrens in c: rectaeque
+ab perpendicularis Τά. Bisecta vero dc in g,
+
+⁴* Vide Figuram De duplicatione Cubi.
+
+ 
+

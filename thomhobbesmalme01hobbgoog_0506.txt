@@ -1,0 +1,48 @@
+Ι - casamo sennan. 495
+
+solidorum reciprocae. Quare (per Euclid. Elem. xi.
+prop. 34) cubus a lan, et solidum sub ΤΟ et quadrato
+ab ag, sunt aequalia. Sed solidum sub ΤΟ et qua·
+druto ab ag, aequale est sphaerae cujus diameter est
+OE. Quare cubus alm aequalis est sphaerae eidem.
+Inventus ergo est cubus sphaerae aequalis.
+
+PROPOSITIO 111.
+
+Invenire rectam aequalem arcui CL.
+
+Repetatur in figura secunda pars figurae primae,
+in qua quadratum QRST aequale est circulo BCDE.
+Centro A, intervallo AY describatur arcus circuli
+secans AO in d, et AG in b: ct per puuctum ddu-
+catur recta Zc parallelo GC, secans AC in Z et AG
+m c.
+
+Dico rectam Za aequalem esse arcui CL.
+
+Nam CG,YQ‚Z0 sunt continue proportionales.
+Et (per Archimedem de Dimenaione Circnla) trian-
+gulum rectangulum, cujus latus unum circa angu-
+lum rectum aequale est perimetro circuli, et latus
+alterum aequale semidiametro, aequale est totius cir·
+culi areae.
+
+Ergo rectangulum sub semiperimetro et radio,
+aequale est areae ejusdem circuli.
+
+Ergo rectangulum sub parte quarta perimetri et
+radin, aequale est areae semicirculi BOD.
+
+Ergo rectangulum sub octava parte perimetri et
+radio, id est rectangulum sub lu et arcu CL,
+aequale est areae quadrantis ACB.
+
+Ergo quadratum a media proportionali inter AO
+
+{tongum CL, aequnle est areae quadrantis ejusdem
+
+PROP. 11.
+*rw-³
+
+ 
+

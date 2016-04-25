@@ -1,0 +1,52 @@
+mnruunnmcmnonrunnm. 221
+
+basis ab basem, (id est, diametri basis ad diametrum numam
+basis duplicata), et altitudinis DB ad altitudinem L
+DF. Sunt autem rectae DF, DB, Du continue
+proportionales (prop. x). Est igitur basis ab basem,
+
+ut DF ad Du. Componitur ergo ratio cylindri,
+
+facti a conversione plani DG circa altitudinem
+proprium DB, ad cylindrum sactum a conversione
+
+cirea altitudinem propriam DF, ex rationibus alti-
+
+tudinis DF ad Du, et DB diametri basis ad DF,
+
+hoc est, rectae Du ad altitudinem DB. Si com·
+ponantur ergo ratio BD ad Du, (idest, ratio basis
+
+ab basem), et ratio DB ad DF, id est, Du ad DB,
+
+erit ratio cylindri iacti a conversione ejusdem rec·
+
+tanguli DG circa DB, ad cylindrum iactum a con·
+versione ejusdem rectanguli circa DF, in ratione
+composita ex rationibus DF ad Du, et Du ad DB;
+
+et propterea, cylindrus ad cylindrum, et proinde l
+
+illius ad i hujus, est ut DF ad DB. Quod erat
+demonstrandum.
+
+B. Si certum esset quod cylindri suut iuter se
+in ratione composita ex rationibus basis ad basem,
+et altitudinis ad altitudinem, dubitari non posset
+de theorematis hujus veritate. Sed ubi est hoc
+demonstratum Ρ
+
+Α. Demonstravit Hobbius, libro uu consona
+(cap. xiii, art. 14). Quod caput ipse Wallisius
+non improbavit, sed quia nibil in eo reperit quod
+potuit rodere, Hobbii ipsius esse negavit. Non
+quod alienum revera esse putaret, sed quia instituto
+ejus mentiri expedivit. Thecrema hoc uon modo
+in quantitatibus iactis, sed etiam iu omni genere
+rerum factarum verum est. Neque arte logicae,
+sed ratione tantum naturali opus est ad veritatem
+
+ejus agnoscendam. Satis enim manifestum est,
+
+ 
+

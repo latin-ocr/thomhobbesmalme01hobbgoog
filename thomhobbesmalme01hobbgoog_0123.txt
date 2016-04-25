@@ -1,0 +1,45 @@
+112 nxnnrunrro nr nnnunn‘rro
+
+unrocus ex radicibus inter se, radicem esse producti ex
+
+,ΞΕ quadratis inter se. Idem autem hic ostendam de
+radicibus cubicis, quadrato-quadraticiS, et caeteris
+potestatibus, Sit enim datus cubus ΑΑΑ; cujus
+proinde radix est A. Sitque datus numerus B, et
+per consequens datus est cubus ejus ΒΒΒ. Dico
+factum ex A in B, esse radicem cubicam numeri
+facti ex ΑΑΑ multiplicati per ΒΒΒ. Factum
+enirn a cubis est ABABAB, cujus radix cubica est
+ΑΒ.
+
+Β. Ostende operationem in numeris, multipli-
+cans radicem cubicam numeri 64 in numerum 5.
+
+A. Hoc est, in radicem cubicum numeri 125.
+Multiplico 64 in 125, et factus est 8000; cujus
+radix cubica est 20, factus ex 5multiplicatis in
+radicem cubicam numeri 64, id est, ex 5 in 4. Si-
+militer, si duo numeri multiplicentur inter se, facti
+radix quadrato-quadratica aequalis erit facto ex
+ipsorum radicibus quadrato-quadraticis. Exempli
+causa: sint multiplicati inter se 16 et 81; factus
+erit 1296, cujus radix quadrato-quadratica est 6,
+factus ex 2 radice quadrato-quadraticas numeri 16,
+et ex 3 radice quadrato-quadraticu numeri 81.
+
+B. Manifesta haec sunt. Sed si plures radices
+quadraticae, puta6 radices numeri 4, ducendae sint
+in plures radices, puta in 4 radices numeri 9, quid
+faciendum est?
+
+A. Divide nunc numerum radicum quadratica·
+rum per numerum alium radicum quadraticarum.
+Verbi gratia, divide 6 radices quadraticas numeri
+36, per 2 radices quadraticas numeri 9.
+
+Quadratum dividendi dividatur per quadratum
+alterum, et numerus per numerum. Quotientis
+radix est quotiens quaesitus.
+
+ 
+

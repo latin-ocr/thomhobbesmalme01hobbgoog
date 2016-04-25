@@ -1,0 +1,43 @@
+numennumen pomarum. 213
+
+et unum quodlibet eorum aequale quartae parti coni unrocus
+ejusdem altitudinis et basis oum cylindro descripto L
+arectangulo DG. Est enim conus, idest, solidum
+descriptum a triangulo rectilineo DGF converso
+super rectum DF, tertia pars cylindri descripti a
+revolutioni rectanguli DG super eandem rectam DF.
+
+Consect. ii. Manifestum hinc est eadem methodo
+demonstrari posse, sumpta quavis alia parallelo
+altitudinis ut A J, terminata ex una parte in dia-
+metro DB‚ ex altera parte in cycloide, et ductafvr
+perpendiculariter ad BG, quod solidum factum a
+conversione plani cycloidalis Bm f A circa rectam
+Asper quadrantem circuli, aequale esse duabus
+tertiis solidi facti eodem tempore a conversione
+reetanguli Απ supra eandem A f.
+
+Puot’oslrto xv11.
+
+Centrum gravitatis semicirculi genitoris ABCD
+ita dividit radium AC in O, ut pars AO sit 5¹,ss arcus
+BCD.
+
+Si fiat ut tertia pars arcus BCD ad tertiam
+partem subtensae‚ idest, diametri BD, ita duae
+tertiae radii ΑΒ, id est, una tertia diametri BD,
+ad quartam, erit terminus illius quartae sumptae ab
+A versus C centrum gravitatis semicirculi ABCD
+(lib, i, cap. ix, prop. i, Guldim· de Centro Gravi-
+tatis). Sit terminus ille Ο.
+
+Est ergo tertia pars diametri BD media propor-
+tionalis inter tertiam partem arcus BCD et AO.
+Quoniam ergo diameter (per superius demonstrata)
+est media proportionalis inter arcum BCD et duas
+quintas arcus ejusdem, etiam tertia pars diametri
+erit media proportionalis inter tertiam partem
+arcus BCD et tertiam partem duarum quintarum,
+
+ 
+

@@ -1,0 +1,43 @@
+uaruuunrrcm numanum. 111
+
+64 ; cujus radix 8 aequalis est radici numeri 9una arenosus
+cum radici numeri 25. Demonstratur autem sic. „HL
+Multiplicatae inter se radices faciunt unum ex com-
+plementis; et duplicatus facit duo complementa
+ad duos quadratos, 9 et 25, super eandem dia·
+gonalem disposit0s; additis ergo ipsis quadratis,
+fit quadratum a recta aequali lateribus ambobus.
+lllius ergo radix aequalis est summae radicum pro-
+positarum.
+
+B. Recte. Multiplica jam numerum radicum
+in numerum radicum.
+
+Α. Regula est haec. Ducatur quadratorum unus
+in alterum; radix producti multiplicetur per factum
+ex numeris. Exempli causa: sint8 radices qua-
+draticaenumeri9 multiplicandae in 3 radices quadra·
+ticas numeri 4. Quadrati 4 et 9 iuter se faciunt
+86: factus ex numeris 3 et 8 est 24 ; qui multipli-
+catus in radicem quadraticam 86‚=6‚ facit 144.
+Tantundem faciunt 8 radices quadraticae 9, id est,
+24 in 3 radices quadraticas 4, id est, in 6. Demon-
+stratur autem sic. Radix 9in radicem 4, est radix
+ejus qui fit ex 9 iu 4, per regulam primam supra
+traditam. Quare 8 radices quadraticae 9, iu 3 ra·
+dices quadraticas 4, est id quod fit ex 24 radicibus
+quadraticis ejus numeri qui fit ex 9 iu 4; id est,
+quod fit ex 24 in 6, id est, numeri 144.
+
+Β. In numeris quidem quadratis operabimur per
+banc regulam accuratissime ; etiam in numeris non
+quadratis minor multo erit error, quam si radices
+extractas non veras post multiplicaremus: nam
+multiplicaremus una errorem. Sed eademne est
+methodus multiplicandi radices cubicas, quae fuit
+multiplicandi radices quadraticas?
+
+Α. Eadem. Nam illici ostensum est productum
+
+ 
+
